@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <array name="sort">
+        <item>Most Popular</item>
+        <item>Highest Rated</item>
+        <item>Favourites</item>
+    </array>
+    <string name="pop_url">https://api.themoviedb.org/3/movie/popular?api_key=</string>
+    <string name="top_rated_url">https://api.themoviedb.org/3/movie/top_rated?api_key=</string>
+    <string name="append_url">http://image.tmdb.org/t/p/w185/</string>
+    <string name="detail_url_header">https://api.themoviedb.org/3/movie/</string>
+    <string name="api_key">28d164f507b5c453175189ab8c7dcb03</string>
+    <string name="text_synopsis">Synopsis</string>
+    <string name="text_trailer">Trailer</string>
+    <string name="text_reviews">Reviews</string>
+</resources>

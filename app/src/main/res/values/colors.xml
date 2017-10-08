@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E91E63</color>
+    <color name="colorPrimaryDark">#C2185B</color>
+    <color name="colorAccent">#fad314</color>
+    <color name="test1">#96fad314</color>
+    <color name="black">#212121</color>
+    <color name="toolbarBackground">#f48fb1</color>
+    <color name="fabSelectedBackground">#aef7fc</color>
+    <color name="fabSelectedIcon">#fad314</color>
+    <color name="fabRemovedIcon">#fff4d1</color>
+    <color name="fabRemovedBackground">#80aef7fc</color>
+</resources>
